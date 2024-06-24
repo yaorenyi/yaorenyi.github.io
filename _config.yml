@@ -14,7 +14,7 @@ timezone: Asia/shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: wolkasmem's blog # the main title
+title: wolkasem's blog # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/yaorenyi # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -117,15 +117,15 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
-    strict: # optional, default to '0'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    repo: yaorenyi/yaorenyi.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOMNQiGw
+    category: comment
+    category_id: DIC_kwDOMNQiG84CgVYW
+    mapping: pathname # optional, default to 'pathname'
+    strict:  0 # optional, default to '0'
+    input_position: bottom # optional, default to 'bottom'
+    lang: zh-CN # optional, default to the value of `site.lang`
+    reactions_enabled: 1 # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
