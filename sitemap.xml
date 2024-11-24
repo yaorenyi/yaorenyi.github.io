@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.wolkasem.cn/categories/</loc>
+    <loc>https://wolkasem.cn/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.wolkasem.cn/collections/</loc>
+    <loc>https://wolkasem.cn/collections/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.wolkasem.cn/posts/</loc>
+    <loc>https://wolkasem.cn/posts/</loc>
     <lastmod>2024-11-24T10:15:37+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.wolkasem.cn/tags/</loc>
+    <loc>https://wolkasem.cn/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.wolkasem.cn/</loc>
+    <loc>https://wolkasem.cn/</loc>
     <lastmod>2024-11-24T10:15:37+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
