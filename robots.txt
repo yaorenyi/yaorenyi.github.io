@@ -97,4 +97,4 @@ Disallow: /
 User-agent: ClaudeBot
 Disallow: /
 
-Sitemap: https://www.haoyep.com/sitemap.xml
+Sitemap: https://blogs.wolkasem.cn/sitemap.xml

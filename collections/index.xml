@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Collections - 合集 - Leehow的小站</title>
-    <link>https://www.haoyep.com/collections/</link>
-    <description>Leehow的小站</description>
+    <title>Collections - 合集 - wolkasem的小站</title>
+    <link>https://blogs.wolkasem.cn/collections/</link>
+    <description>wolkasem的小站</description>
     <generator>Hugo 0.139.2 &amp; FixIt v0.3.15</generator>
     <language>zh-CN</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://www.haoyep.com/collections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blogs.wolkasem.cn/collections/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
