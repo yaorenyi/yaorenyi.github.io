@@ -40,7 +40,7 @@
 - 飞机的控制系统仪表盘设计能不能被称为交互设计？
 - PC、移动端的显示界面设计能不能被称为交互设计？
 
-![image01](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image01.webp)
+![image-2024-12-07-22-25-55](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2024-12-07-22-25-55.webp)
 
 我想最后一个问题不言自明，我们现在通常所说的交互设计，指的就是设计PC或者移动端的各种界面。那前面三个呢？
 
@@ -52,7 +52,7 @@
 
 所以我们需要思考了，包装和电脑之间的差异在哪？飞机控制系统和一个指示牌之间的差异在哪？去控制一架飞机和控制一辆三轮车之间的差异在哪？
 
-![image-2](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp)
+![image-1-2024-12-07-22-25-44](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-1-2024-12-07-22-25-44.webp)
 
 我们能够明显的感受到电脑、飞机所包含内容的复杂程度与包装、三轮车并不在一个量级。
 
@@ -68,7 +68,7 @@
 
 而将此标准套到前面几个例子中，我们能发现，「包装设计」、「VI 设计」很自然地被排除了，因为它们简单到并不需要存在任何其他「对话机制」。而仪表盘和电脑的显示界面被保留下来了。
 
-!![image-3](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp)
+![image-2024-12-07-22-25-32](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2024-12-07-22-25-32.webp)
 
 那问题来了：明明仪表盘的设计是属于人机工程学的领域啊，为什么被这个标准界定到了交互设计呢？的确，仪表盘设计，根据我们的经验，是不应该属于交互设计的范畴。那么，是这个标准出问题了吗？
 
@@ -110,7 +110,7 @@
 
 上面这段话估计怎么样都很难看懂，还是拿水壶举个例子吧。
 
-![image-4](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-4.webp)
+![image-1-2024-12-07-22-25-15](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-1-2024-12-07-22-25-15.webp)
 
 现实生活中有左边那样一个水壶，当我们看到它后，在我们心里就会想出它的使用方式——把手是拿来握的，顶盖的圆环拿来捏，壶嘴拿出倒水…简单来说就是，我们看到水壶就知道它是怎么用的。
 
@@ -120,11 +120,11 @@
 
 面对一个未知的复杂的人造物时，光是从形态上，我们便无法直接明了地理解它的基本用途。所以肯定无法形成有效的心智模型。这样就会导致无法掌握人造物，更不能可能去理解创造的意图。
 
-![image-5](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-5.webp)1.webp
+![image-2024-12-07-22-24-50](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2024-12-07-22-24-50.webp)
 
 那么这个时候交互设计就登场了。作为人机的一种「对话机制」，它很好地削弱了人造物的复杂性，大大降低人的认知负担，使得人能够快速地构建对人造物的认知。
 
-![image-6](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-6.webp)
+![image](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp)
 
 但是削弱了人造物的复杂性并不是交互设计独有的价值，我们也可以通过减少功能来削弱复杂性，或者让人经过长期学习来掌握人造物。
 
@@ -140,7 +140,7 @@
 
 这个就是我之前有提到的，最大程度地符合用户的心智模型，便能够很轻松地削弱人造物的复杂性。
 
-![image-7](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-7.webp)
+![image-1](https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-1.webp)
 
 例如上图这个炸弹人的游戏引入了“手柄”这种实物概念，用户能够快速地将印象中对于“手柄”的概念移植到这个游戏上，建立「控制手柄 = 控制人物移动」的心智模型，由此快速地构建了基本的游戏操作方法的认知。这就是削弱复杂性的一种典型好用的方法。
 
