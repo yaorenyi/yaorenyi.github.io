@@ -4,28 +4,13 @@
  &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">&lt;/path>&lt;/svg>
  &lt;/a>
 &lt;/h2>&lt;p>如果我们问，交互设计是什么？从网上各种定义中似乎能很快就能知道答案。&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;span class="lnt">8
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">交互设计，又称互动设计（Interaction Design, 缩写 IxD 或者 IaD），是定义、设计人造系统的行为的设计领域。在于定义人造物的行为方式（the “interaction”，即人工制品在特定场景下的反应方式）相关的界面。
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">—— 来自 IxDC
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">定义、设计人造系统的行为的设计领域，它定义了两个或多个互动的个体之间交流的内容和结构，使之互相配合，共同达成某种目的。交互设计努力去创造和建立的是人与产品及服务之间有意义的关系，以“在充满社会复杂性的物质世界中嵌入信息技术”为中心。交互系统设计的目标可以从“可用性”和“用户体验”两个层面上进行分析，关注以人为本的用户需求。
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">——来自 李世国 顾振宇．《普通高等教育工业设计专业“十二五”规划教材——交互设计》中国水利水电出版社，2012年&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>但很显然，如果根据定义来看，我们可能无法真正理解交互设计是什么，又为何如此去定义。因为在这个过程中，大量直观的流程、细节全部被抽象压缩精简成了一个概念。如果想真正能够理解透概念，最好的做法便是「举反例」——也就是思考为什么是这样而不是那样？&lt;/p>
+&lt;blockquote>
+&lt;p>交互设计，又称互动设计（Interaction Design, 缩写 IxD 或者 IaD），是定义、设计人造系统的行为的设计领域。在于定义人造物的行为方式（the “interaction”，即人工制品在特定场景下的反应方式）相关的界面。&lt;/p>
+&lt;p>—— 来自 IxDC&lt;/p>
+&lt;p>定义、设计人造系统的行为的设计领域，它定义了两个或多个互动的个体之间交流的内容和结构，使之互相配合，共同达成某种目的。交互设计努力去创造和建立的是人与产品及服务之间有意义的关系，以“在充满社会复杂性的物质世界中嵌入信息技术”为中心。交互系统设计的目标可以从“可用性”和“用户体验”两个层面上进行分析，关注以人为本的用户需求。&lt;/p>
+&lt;p>——来自 李世国 顾振宇．《普通高等教育工业设计专业“十二五”规划教材——交互设计》中国水利水电出版社，2012年&lt;/p>
+&lt;/blockquote>
+&lt;p>但很显然，如果根据定义来看，我们可能无法真正理解交互设计是什么，又为何如此去定义。因为在这个过程中，大量直观的流程、细节全部被抽象压缩精简成了一个概念。如果想真正能够理解透概念，最好的做法便是「举反例」——也就是思考为什么是这样而不是那样？&lt;/p>
 &lt;p>所以与其从正面去说交互设计是什么，有什么好处，不如质疑它的合理，思考如果没有了它世界会怎么样。当然，我们进行质疑的最终目的，不是为了搞个大新闻，去否交互设计的价值，而是通过这种质疑，去理解交互设计存在的意义，它的合理性，从而加深对于交互设计的理解。毕竟，一个真正合理的东西，从任何角度进行质疑都不会有任何破绽。&lt;/p>
 &lt;p>所以，第一件事，我们自问一下，交互设计的合理性在哪？世界上没有交互设计，还能不能正常运作？它真的必须存在在世界上吗？它的存在是有什么必然性吗？&lt;/p>
 &lt;p>只有我们肯定了交互设计存在的合理性，诸如 「交互设计是如何诞生的？交互设计有什么用？我们为什么需要去研究交互设计？ 怎么去做交互设计？」这样的问题才有讨论的必要。&lt;/p>
@@ -42,13 +27,13 @@
 &lt;li>飞机的控制系统仪表盘设计能不能被称为交互设计？&lt;/li>
 &lt;li>PC、移动端的显示界面设计能不能被称为交互设计？&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp" alt="image" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=large 2x" data-title="image" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image01.webp" alt="image01" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image01.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image01.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image01.webp?size=large 2x" data-title="image01" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
 &lt;p>我想最后一个问题不言自明，我们现在通常所说的交互设计，指的就是设计PC或者移动端的各种界面。那前面三个呢？&lt;/p>
 &lt;p>如果仅仅从「交互」的角度来考虑，包装、VI、仪表盘的设计都的确与「交互」有关。毕竟每一个人造物都对人的行为都具有引导或者是反馈作用。但是，&lt;strong>难道存在交互，就应该被称为「交互设计」吗？&lt;/strong>&lt;/p>
 &lt;p>如果以这样来界定「交互设计」的范围的话，你会发现，所有人造物的设计都可以属于「交互设计」的一部分，那我们还有必要去单独创造一个「交互设计」的词吗？我们之所以创造一个单独的词来称呼，是因为这个词所指代的内容必然有其独特性。而正是这种独特性，将「交互设计」从「包装设计」、「VI设计」、「产品设计」等设计词汇中区分开来。因为我们发现，把设计PC或者移动端的各种界面这种行为叫成「包装设计」、「VI 设计」或者「产品设计」并不合适，所有才会新创一个词来指代设计行为。&lt;/p>
 &lt;p>&lt;strong>所以，「交互」并不是一个科学有效的界定标准，我们并不能，也不应该单纯地从「交互」这个字面意义来界定交互设计的范围，过分夸大交互设计包含的领域。&lt;/strong>&lt;/p>
 &lt;p>所以我们需要思考了，包装和电脑之间的差异在哪？飞机控制系统和一个指示牌之间的差异在哪？去控制一架飞机和控制一辆三轮车之间的差异在哪？&lt;/p>
-&lt;p>&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.png" alt="image" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.png?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.png?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.png?size=large 2x" data-title="image" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp" alt="image-2" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp?size=large 2x" data-title="image-2" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
 &lt;p>我们能够明显的感受到电脑、飞机所包含内容的复杂程度与包装、三轮车并不在一个量级。&lt;/p>
 &lt;p>如果人们能理解一瓶水的包装，看懂一个指示牌的意思，那么我们是不是根本不需要设计任何的交互？换句话说，&lt;strong>如果产品本身便能够表达或是引导产品功能的使用方式，那么根本不需要设计任何的交互。&lt;/strong>&lt;/p>
 &lt;p>再来看信息技术产物——打印机、电脑、手机，或者诸如飞机控制系统、动车控制系统这般庞大的人工系统，普通人能够快速理解吗？我想答案是否定的。&lt;/p>
@@ -56,7 +41,7 @@
 &lt;p>那而如何让人快速掌握这些人造物，符合这些人造物的创造的意图呢？很显然，我们需要一个超越人造系统本身之外的「对话机制」，通过这种机制有效地去和系统沟通，而这种「对话机制」就是我们所谓的「人机交互」。&lt;/p>
 &lt;p>如此一来，界定交互设计的标准似乎就浮出水面了——&lt;strong>设计的对象是否是复杂的人造系统 ？&lt;/strong>（「复杂」一词的界定则是「能否被人脑快速理解」） 如果人造系统很简单，那么就不需要存在多余的「对话机制」，因为人脑能够快速理解这个人造物。而人造系统很复杂，人脑无法理解人造系统的话，那我们就需要一个「对话机制」来辅助我们驾驭人造系统。&lt;/p>
 &lt;p>而将此标准套到前面几个例子中，我们能发现，「包装设计」、「VI 设计」很自然地被排除了，因为它们简单到并不需要存在任何其他「对话机制」。而仪表盘和电脑的显示界面被保留下来了。&lt;/p>
-&lt;p>&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp" alt="image" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=large 2x" data-title="image" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
+&lt;p>!&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp" alt="image-3" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-2.webp?size=large 2x" data-title="image-3" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
 &lt;p>那问题来了：明明仪表盘的设计是属于人机工程学的领域啊，为什么被这个标准界定到了交互设计呢？的确，仪表盘设计，根据我们的经验，是不应该属于交互设计的范畴。那么，是这个标准出问题了吗？&lt;/p>
 &lt;p>没错，是出了问题，我们少了一个限制条件。&lt;/p>
 &lt;p>因为在传统工业设计领域中，是有专门研究复杂人造系统的「对话机制」的学科的——那就是人机工程学。打印机界面、仪表盘等所有物理界面相关的设计，均能用人机工程学的理论和方法指导和完成。按我们刚才的界定标准进行划分，很多人机工程学的设计应用都会变成交互设计。但是这和我们日常的经验并不相符对不对？&lt;/p>
@@ -70,14 +55,10 @@
 &lt;p>虽然物理界面能用人机工程学的理论方法指导，但是信息技术诞生出来的那些虚拟界面（屏幕）呢？人机工程学的大部分理论、方法和工具在电子屏幕这个黑色平面前似乎发挥不了太多作用。因为虚拟界面完全没有物理限制，操作限制。我连续按一个键，每一次都可以反馈出完全不同的结果。屏幕可以呈现的内容完全超出了人机工程的想象范围。换句话说， &lt;strong>人机工程学的理论、方法、工具其实是全面地指导这个新兴事物的发展&lt;/strong>，这个领域必须去寻找新的理论、技术、方法的支撑。&lt;/p>
 &lt;p>那实际上，这个独特新型研究领域在认知心理学、行为学、计算机科学等领域找到支撑点。揉捏了那么多不同的领域知识后，它拥有了自己的理论、方法、工具，最后形成了单独一个学科。而这个学科，现在便被称为「人机交互」，「交互设计」是其面向移动端界面的一个细分。&lt;/p>
 &lt;p>如果我们返回到历史进行验证的话，我们能够找到证明我们推理的历史事实：&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">交互设计发展期（1980年-1995年）：理论方面，从人机工程学独立出来，更加强调认知心理学以及行为学和社会学等学科的理论指导。&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>经过如此的溯源之后，我们可以发现：**「人造系统能否被人脑快速理解」**是界定是否是交互设计的一个必要条件，而另一个必要条件则是——「对话机制」的呈现不是物理界面，而是虚拟界面。&lt;/p>
+&lt;blockquote>
+&lt;p>交互设计发展期（1980年-1995年）：理论方面，从人机工程学独立出来，更加强调认知心理学以及行为学和社会学等学科的理论指导。&lt;/p>
+&lt;/blockquote>
+&lt;p>经过如此的溯源之后，我们可以发现：**「人造系统能否被人脑快速理解」**是界定是否是交互设计的一个必要条件，而另一个必要条件则是——「对话机制」的呈现不是物理界面，而是虚拟界面。&lt;/p>
 &lt;p>那么最后的界定标准似乎就浮现出来了：&lt;strong>设计的对象为复杂人造系统，需要设计的「对话机制」是虚拟的 。&lt;/strong>（这样不仅仅是PC、移动端的界面，目前正在兴起的语音设计也被包括在内）&lt;/p>
 &lt;h2 id="三交互设计独有的价值是什么" class="heading-element">&lt;span>三、交互设计独有的价值是什么?&lt;/span>
  &lt;a href="#%e4%b8%89%e4%ba%a4%e4%ba%92%e8%ae%be%e8%ae%a1%e7%8b%ac%e6%9c%89%e7%9a%84%e4%bb%b7%e5%80%bc%e6%98%af%e4%bb%80%e4%b9%88" class="heading-mark">
@@ -87,44 +68,39 @@
 &lt;p>我们已经知道了，人造物的复杂性（黑箱）使得人无法去快速掌握它。显然的，交互设计的根本目的就是让人能掌握人造物。&lt;/p>
 &lt;p>在此之前，我们需要思考一下，为什么我们无法快速掌握人造物呢？&lt;/p>
 &lt;p>这跟用户的「心智模型」有关。&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">心智模型的理论是基于一个试图对某事做出合理解释的个人会发展可行的方法的假设，在有限的领域知识和有限的信息处理能力上，产生合理的解释。&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>上面这段话估计怎么样都很难看懂，还是拿水壶举个例子吧。
-&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp" alt="image" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=large 2x" data-title="image" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
+&lt;blockquote>
+&lt;p>心智模型的理论是基于一个试图对某事做出合理解释的个人会发展可行的方法的假设，在有限的领域知识和有限的信息处理能力上，产生合理的解释。&lt;/p>
+&lt;/blockquote>
+&lt;p>上面这段话估计怎么样都很难看懂，还是拿水壶举个例子吧。&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-4.webp" alt="image-4" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-4.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-4.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-4.webp?size=large 2x" data-title="image-4" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
 &lt;p>现实生活中有左边那样一个水壶，当我们看到它后，在我们心里就会想出它的使用方式——把手是拿来握的，顶盖的圆环拿来捏，壶嘴拿出倒水…简单来说就是，我们看到水壶就知道它是怎么用的。&lt;/p>
 &lt;p>但是，右边的水壶壶嘴几乎不可见，你看到之后还能那么容易得找到出水口吗？&lt;/p>
 &lt;p>换话说，**物的形态暗示是有其功能的，而一旦物没有了特殊的形态，那么人们将难以去理解功能。**当它的形态暗示不了它的功能的时候，我们的心智模型构建就会出现问题。一旦出现问题，我们便无法掌握人造物。&lt;/p>
-&lt;p>面对一个未知的复杂的人造物时，光是从形态上，我们便无法直接明了地理解它的基本用途。所以肯定无法形成有效的心智模型。这样就会导致无法掌握人造物，更不能可能去理解创造的意图。
-&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp" alt="image" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=large 2x" data-title="image" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>
-那么这个时候交互设计就登场了。作为人机的一种「对话机制」，它很好地削弱了人造物的复杂性，大大降低人的认知负担，使得人能够快速地构建对人造物的认知。
-&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp" alt="image" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=large 2x" data-title="image" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>
-但是削弱了人造物的复杂性并不是交互设计独有的价值，我们也可以通过减少功能来削弱复杂性，或者让人经过长期学习来掌握人造物。&lt;/p>
+&lt;p>面对一个未知的复杂的人造物时，光是从形态上，我们便无法直接明了地理解它的基本用途。所以肯定无法形成有效的心智模型。这样就会导致无法掌握人造物，更不能可能去理解创造的意图。&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-5.webp" alt="image-5" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-5.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-5.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-5.webp?size=large 2x" data-title="image-5" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>1.webp&lt;/p>
+&lt;p>那么这个时候交互设计就登场了。作为人机的一种「对话机制」，它很好地削弱了人造物的复杂性，大大降低人的认知负担，使得人能够快速地构建对人造物的认知。&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-6.webp" alt="image-6" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-6.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-6.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-6.webp?size=large 2x" data-title="image-6" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
+&lt;p>但是削弱了人造物的复杂性并不是交互设计独有的价值，我们也可以通过减少功能来削弱复杂性，或者让人经过长期学习来掌握人造物。&lt;/p>
 &lt;p>但是很多时候，功能是无法被削减的，长期学习也并不现实。&lt;/p>
 &lt;p>比如给飞机的控制仪表盘削弱复杂性，减少功能按钮的确可以促使飞行员更快速、有效地理解如何使用该此控制系统，但是功能按钮的减少会带来诸如安全、操控性等方面的问题，这必然是不能接受的。&lt;/p>
 &lt;p>而使人经过长期训练来学习掌握人造物，这更是不现实。毕竟我们不可能花费大量时间去学习操作电子元件或者写代码。&lt;/p>
 &lt;p>而这就是交互设计区别于其他掌握人造物的方法的最重要的一点：在保持原有功能的基础上削弱人造物的复杂性，使人能够以高效构建对人造物的认知。 也是其独有的价值所在。&lt;/p>
 &lt;p>可能有人会问了，那交互设计是如何做到这一点呢的？&lt;/p>
-&lt;p>这个就是我之前有提到的，最大程度地符合用户的心智模型，便能够很轻松地削弱人造物的复杂性。
-&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp" alt="image" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image.webp?size=large 2x" data-title="image" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
+&lt;p>这个就是我之前有提到的，最大程度地符合用户的心智模型，便能够很轻松地削弱人造物的复杂性。&lt;/p>
+&lt;p>&lt;img loading="lazy" src="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-7.webp" alt="image-7" srcset="https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-7.webp?size=small, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-7.webp?size=medium 1.5x, https://wolkasem-oss-aliyun-bucket.oss-cn-heyuan.aliyuncs.com/image/vscode/image-7.webp?size=large 2x" data-title="image-7" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>&lt;/p>
 &lt;p>例如上图这个炸弹人的游戏引入了“手柄”这种实物概念，用户能够快速地将印象中对于“手柄”的概念移植到这个游戏上，建立「控制手柄 = 控制人物移动」的心智模型，由此快速地构建了基本的游戏操作方法的认知。这就是削弱复杂性的一种典型好用的方法。&lt;/p>
 &lt;p>而到此为止，什么是交互设计，大家应该有了一个相对明确的答案。&lt;/p>
 &lt;p>用我自己的话说——&lt;strong>交互设计脱胎于人机工程学，融合认知心理学、行为学、计算机科学等学科理论方法 &lt;strong>（前世今生），是&lt;/strong>复杂人造物与人之间以虚拟界面为载体的对话机制&lt;/strong>（是什么）。交互设计通过&lt;strong>构建有效的用户心智模型&lt;/strong>（方法），在**保持系统原有功能的基础上削弱人造物的复杂性 **（独特性），&lt;strong>让人用更低的成本建立对人造物的基本认知&lt;/strong>（直接目的），&lt;strong>使人能够掌握人造物，并让人造物的使用符合创造的意图&lt;/strong>（根本目的）。&lt;/p>
 &lt;p>再来看看网上的一些定义，是不是会发现豁然开朗了呢？&lt;/p>
+&lt;blockquote>
+&lt;p>交互设计，又称互动设计（Interaction Design, 缩写 IxD 或者 IaD），是定义、设计人造系统的行为的设计领域。在于定义人造物的行为方式（the “interaction”，即人工制品在特定场景下的反应方式）相关的界面。&lt;/p>
+&lt;p>定义、设计人造系统的行为的设计领域，它定义了两个或多个互动的个体之间交流的内容和结构，使之互相配合，共同达成某种目的。交互设计努力去创造和建立的是人与产品及服务之间有意义的关系，以“在充满社会复杂性的物质世界中嵌入信息技术”为中心。交互系统设计的目标可以从“可用性”和“用户体验”两个层面上进行分析，关注以人为本的用户需求。&lt;/p>
+&lt;/blockquote>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">交互设计，又称互动设计（Interaction Design, 缩写 IxD 或者 IaD），是定义、设计人造系统的行为的设计领域。在于定义人造物的行为方式（the “interaction”，即人工制品在特定场景下的反应方式）相关的界面。
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">定义、设计人造系统的行为的设计领域，它定义了两个或多个互动的个体之间交流的内容和结构，使之互相配合，共同达成某种目的。交互设计努力去创造和建立的是人与产品及服务之间有意义的关系，以“在充满社会复杂性的物质世界中嵌入信息技术”为中心。交互系统设计的目标可以从“可用性”和“用户体验”两个层面上进行分析，关注以人为本的用户需求。&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div></description></item><item><title>Github Action</title><link>https://blogs.wolkasem.cn/posts/github-action/</link><pubDate>Sun, 24 Nov 2024 15:17:00 +0800</pubDate><guid>https://blogs.wolkasem.cn/posts/github-action/</guid><category domain="https://blogs.wolkasem.cn/categories/github/">Github</category><description>&lt;h2 id="为什么要配置自动发布" class="heading-element">&lt;span>为什么要配置自动发布&lt;/span>
  &lt;a href="#%e4%b8%ba%e4%bb%80%e4%b9%88%e8%a6%81%e9%85%8d%e7%bd%ae%e8%87%aa%e5%8a%a8%e5%8f%91%e5%b8%83" class="heading-mark">
